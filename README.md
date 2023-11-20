@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**senasengul8/senasengul8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 Currently working on: I graduated from Middle East Technical University (METU) with a degree in Computer Engineering. I am currently focusing on learning full-stack development with Spring and .NET technologies. 
 
@@ -15,6 +11,3 @@ Here are some ideas to get you started:
 📫 How to reach me: You can contact me through LinkedIn. My profile is senanursengul8.
 
 😄 Pronouns: I prefer the use of "she/her" pronouns.
-
-
--->
