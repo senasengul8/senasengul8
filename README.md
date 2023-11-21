@@ -8,6 +8,6 @@
 👯 Looking to collaborate on: I am interested in collaborating with individuals who have experience in full-stack development or machine learning or share an interest in the same technologies. Collaboration on specific projects or in certain areas would be exciting for me.
 
 
-📫 How to reach me: You can contact me through LinkedIn. My profile is senanursengul8.
+📫 How to reach me: You can contact me through LinkedIn. My profile is senanursengul.
 
 😄 Pronouns: I prefer the use of "she/her" pronouns.
